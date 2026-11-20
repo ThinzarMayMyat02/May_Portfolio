@@ -1,0 +1,16 @@
+[
+  {
+    "type": "Collaborative software project",
+    "title": "Syntax Siblings Learning Platform",
+    "description": "I contributed backend business logic and JWT-based authentication and security to a team-built learning platform.",
+    "path": "projects/syntax-siblings.html",
+    "link_label": "View Syntax Siblings project"
+  },
+  {
+    "type": "UXMM Buildathon · 2026",
+    "title": "OceanBlue",
+    "description": "Our buildathon team received the Best Idea Award and the Funded Award, with SGD 1,000 in team funding.",
+    "path": "projects/oceanblue.html",
+    "link_label": "View OceanBlue project"
+  }
+]

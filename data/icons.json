@@ -1,0 +1,90 @@
+{
+  "featured": [
+    {
+      "label": "Java",
+      "class_name": "java",
+      "drawing": "<path d=\"M9 3c-4 4 6 4 2 8M15 2c-3 3 2 4 0 7M4 13h13v2a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5zm13 1h2a2 2 0 0 1 0 4h-3M3 22h17\"/>"
+    },
+    {
+      "label": "Spring Boot",
+      "class_name": "spring",
+      "drawing": "<path d=\"M20 3c1 5 1 10-2 13-3 3-8 3-11 0S4 9 8 7c3-2 7-1 12-4ZM4 21c4-4 8-4 13-10\"/>"
+    },
+    {
+      "label": "Angular",
+      "class_name": "angular",
+      "drawing": "<path d=\"m12 2 9 3-1 12-8 5-8-5L3 5Zm-4 14 4-9 4 9m-7-2h6\"/>"
+    },
+    {
+      "label": "TypeScript",
+      "class_name": "typescript",
+      "drawing": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"3\"/><path d=\"M6 10h7m-3.5 0v8m9-7c-3-3-6 2-2 3 4 1 1 6-2 3\"/>"
+    },
+    {
+      "label": "SQL",
+      "class_name": "sql",
+      "drawing": "<ellipse cx=\"12\" cy=\"5\" rx=\"8\" ry=\"3\"/><path d=\"M4 5v14c0 4 16 4 16 0V5M4 12c0 4 16 4 16 0\"/>"
+    },
+    {
+      "label": "Docker",
+      "class_name": "docker",
+      "drawing": "<path d=\"M3 13h14l2-3 3 2-2 2c-2 5-5 7-10 7-4 0-7-3-7-8Zm2-4h3v4m0-4h3v4m0-4h3v4m-3-8h3v4\"/>"
+    }
+  ],
+  "technologies": {
+    "Java 8 and 21": "java",
+    "Spring Boot": "spring",
+    "Spring Data JPA": "spring",
+    "Hibernate": "hibernate",
+    "Servlets": "java",
+    "JSP": "java",
+    "JavaBeans": "java",
+    "Keycloak": "keycloak",
+    "Angular": "angular",
+    "Angular Signals": "angular",
+    "reactive state management": "angular",
+    "reactive forms": "angular",
+    "JavaScript": "javascript",
+    "TypeScript": "typescript",
+    "SCSS": "sass",
+    "Tailwind CSS": "tailwindcss",
+    "NG-ZORRO": "antdesign",
+    "Thymeleaf": "thymeleaf",
+    "PostgreSQL": "postgresql",
+    "Oracle Database": "oracle",
+    "Microsoft SQL Server": "microsoftsqlserver",
+    "MySQL": "mysql",
+    "MariaDB": "mariadb",
+    "Docker": "docker",
+    "Docker Compose": "docker",
+    "Git": "git",
+    "GitLab CI/CD": "gitlab",
+    "Maven": "maven",
+    "Ant": "apacheant",
+    "Postman": "postman",
+    "SonarQube": "sonarqube",
+    "Trivy": "trivy",
+    "JBoss EAP": "redhat",
+    "Next.js": "nextjs",
+    "React": "react",
+    "Supabase": "supabase",
+    "Vercel": "vercel",
+    "Render": "render",
+    "Gemini Flash OCR": "googlegemini",
+    "JWT authentication": "jsonwebtokens",
+    "AWS": "amazonwebservices",
+    "Infrastructure as code": "terraform"
+  },
+  "concepts": {
+    "Application security": "<path d=\"m12 3 8 3v6c0 5-8 9-8 9S4 17 4 12V6Z\"/><path d=\"m9 12 2 2 4-4\"/>",
+    "REST APIs": "<path d=\"m7 7-5 5 5 5m10-10 5 5-5 5m-4-14-2 18\"/>",
+    "LDAP": "<rect x=\"9\" y=\"2\" width=\"6\" height=\"5\" rx=\"1\"/><rect x=\"2\" y=\"17\" width=\"6\" height=\"5\" rx=\"1\"/><rect x=\"16\" y=\"17\" width=\"6\" height=\"5\" rx=\"1\"/><path d=\"M12 7v5H5v5m7-5h7v5\"/>",
+    "SQL": "<ellipse cx=\"12\" cy=\"5\" rx=\"8\" ry=\"3\"/><path d=\"M4 5v14c0 4 16 4 16 0V5M4 12c0 4 16 4 16 0\"/>",
+    "SFTP": "<path d=\"M5 15V3h9l5 5v5m-5-10v5h5M8 21H2m3-3-3 3 3 3m11-8h6m-3-3 3 3-3 3\"/>",
+    "WildFly": "<path d=\"M12 11C6 0 0 5 5 12l7 4c-8 9-10 2-7-2m7-3C18 0 24 5 19 12l-7 4c8 9 10 2 7-2m-7-7v12\"/>",
+    "Open Liberty": "<path d=\"m12 2 2 7 7-3-5 6 5 6-7-3-2 7-2-7-7 3 5-6-5-6 7 3Z\"/>",
+    "WebSphere Liberty": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><ellipse cx=\"12\" cy=\"12\" rx=\"4\" ry=\"9\"/><path d=\"M3 12h18m-16-6h14M5 18h14\"/>",
+    "AI chatbot integration": "<rect x=\"3\" y=\"5\" width=\"18\" height=\"13\" rx=\"3\"/><path d=\"m7 18-2 4m7-17V2m-5 9h1m8 0h1m-9 4h8\"/>",
+    "Cloud architecture": "<path d=\"M6 14a4 4 0 0 1-1-8 6 6 0 0 1 11-1 5 5 0 0 1 2 9ZM12 14v4M5 22v-4h14v4\"/>"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "oceanblue_gallery": {
+    "prefix": "oceanblue-memory",
+    "caption": "Team OceanBlue at UXMM’s Into the AI Ocean Buildathon 2026",
+    "excluded": [],
+    "captions": {
+      "oceanblue-memory-01.png": "Best Idea Award trophy and certificate",
+      "oceanblue-memory-02.jpeg": "OceanBlue receiving the Best Idea Award",
+      "oceanblue-memory-03.jpeg": "OceanBlue Funded Award announcement",
+      "oceanblue-memory-04.jpg": "OceanBlue Buildathon team photograph"
+    }
+  },
+  "metro_gallery": {
+    "prefix": "metro-convocation",
+    "caption": "May Myat Thinzar at her Metro IT Business College convocation",
+    "excluded": [
+      "metro-convocation-01.jpg"
+    ],
+    "captions": {}
+  }
+}

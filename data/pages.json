@@ -1,0 +1,74 @@
+[
+  {
+    "path": "index.html",
+    "title": "Home",
+    "description": "May Myat Thinzar, software engineer working in Java, Spring Boot and Angular.",
+    "template": "pages/index.html"
+  },
+  {
+    "path": "about.html",
+    "title": "About",
+    "description": "About · Software engineering portfolio of May Myat Thinzar.",
+    "template": "pages/about.html"
+  },
+  {
+    "path": "experience.html",
+    "title": "Experience",
+    "description": "Experience · Software engineering portfolio of May Myat Thinzar.",
+    "template": "pages/experience.html"
+  },
+  {
+    "path": "projects/index.html",
+    "title": "Projects",
+    "description": "Collaborative engineering, enterprise applications and Team OceanBlue.",
+    "template": "pages/projects/index.html"
+  },
+  {
+    "path": "projects/quotation-invoice.html",
+    "title": "Quotation & Invoice Management",
+    "description": "Quotation & Invoice Management · Software engineering portfolio of May Myat Thinzar.",
+    "template": "pages/projects/quotation-invoice.html"
+  },
+  {
+    "path": "projects/content-repository.html",
+    "title": "Enterprise Content Repository",
+    "description": "Enterprise Content Repository · Software engineering portfolio of May Myat Thinzar.",
+    "template": "pages/projects/content-repository.html"
+  },
+  {
+    "path": "projects/syntax-siblings.html",
+    "title": "Syntax Siblings Learning Platform",
+    "description": "Syntax Siblings Learning Platform · Software engineering portfolio of May Myat Thinzar.",
+    "template": "pages/projects/syntax-siblings.html"
+  },
+  {
+    "path": "projects/oceanblue.html",
+    "title": "OceanBlue",
+    "description": "OceanBlue · Software engineering portfolio of May Myat Thinzar.",
+    "template": "pages/projects/oceanblue.html"
+  },
+  {
+    "path": "skills.html",
+    "title": "Skills",
+    "description": "Skills · Software engineering portfolio of May Myat Thinzar.",
+    "template": "pages/skills.html"
+  },
+  {
+    "path": "achievements.html",
+    "title": "Achievements",
+    "description": "Achievements · Software engineering portfolio of May Myat Thinzar.",
+    "template": "pages/achievements.html"
+  },
+  {
+    "path": "contact.html",
+    "title": "Contact",
+    "description": "Contact · Software engineering portfolio of May Myat Thinzar.",
+    "template": "pages/contact.html"
+  },
+  {
+    "path": "education.html",
+    "title": "Education & Certifications",
+    "description": "Education & Certifications · Software engineering portfolio of May Myat Thinzar.",
+    "template": "pages/education.html"
+  }
+]

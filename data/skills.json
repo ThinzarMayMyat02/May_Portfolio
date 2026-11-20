@@ -1,0 +1,117 @@
+{
+  "intro": {
+    "title": "Skills",
+    "description": "Enterprise engineering, project technologies and ongoing learning."
+  },
+  "sections": [
+    {
+      "title": "Professional experience",
+      "groups": [
+        {
+          "title": "Backend and security",
+          "technologies": [
+            "Application security",
+            "Java 8 and 21",
+            "Spring Boot",
+            "Spring Data JPA",
+            "Hibernate",
+            "REST APIs",
+            "Servlets",
+            "JSP",
+            "JavaBeans",
+            "Keycloak",
+            "LDAP"
+          ]
+        },
+        {
+          "title": "Frontend",
+          "technologies": [
+            "Angular",
+            "Angular Signals",
+            "reactive state management",
+            "reactive forms",
+            "JavaScript",
+            "TypeScript",
+            "SCSS",
+            "Tailwind CSS",
+            "NG-ZORRO",
+            "Thymeleaf"
+          ]
+        },
+        {
+          "title": "Databases",
+          "technologies": [
+            "SQL",
+            "PostgreSQL",
+            "Oracle Database",
+            "Microsoft SQL Server",
+            "MySQL",
+            "MariaDB"
+          ]
+        },
+        {
+          "title": "Delivery and tooling",
+          "technologies": [
+            "Docker",
+            "Docker Compose",
+            "Git",
+            "GitLab CI/CD",
+            "Maven",
+            "Ant",
+            "Postman",
+            "SonarQube",
+            "Trivy",
+            "SFTP"
+          ]
+        },
+        {
+          "title": "Application servers",
+          "technologies": [
+            "JBoss EAP",
+            "WildFly",
+            "Open Liberty",
+            "WebSphere Liberty"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Project and prototype experience",
+      "groups": [
+        {
+          "title": "Authentication",
+          "technologies": [
+            "JWT authentication",
+            "Application security"
+          ]
+        },
+        {
+          "title": "Web and AI prototyping",
+          "technologies": [
+            "Next.js",
+            "React",
+            "Supabase",
+            "Vercel",
+            "Render",
+            "Gemini Flash OCR",
+            "AI chatbot integration"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Learning journey",
+      "groups": [
+        {
+          "title": "Currently learning",
+          "technologies": [
+            "AWS",
+            "Cloud architecture",
+            "Infrastructure as code"
+          ]
+        }
+      ],
+      "description": "I’m exploring AWS, cloud architecture and infrastructure as code while continuing to work with modern Java, Spring Boot, application security, Docker and AI integrations."
+    }
+  ]
+}

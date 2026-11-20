@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="$description">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="$page_title | $name">
+    <meta property="og:description" content="$description">
+    <title>$page_title | $name</title>
+    <script src="${asset_prefix}assets/theme.js">
+    </script>
+    <script defer src="${asset_prefix}assets/gallery.js">
+    </script>
+    <script defer src="${asset_prefix}assets/navigation.js">
+    </script>
+    <link rel="stylesheet" href="${asset_prefix}assets/styles.css">
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a class="brand" href="${asset_prefix}index.html">$name</a>
+        <button class="menu-toggle" type="button" aria-controls="portfolio-navigation" aria-expanded="false" hidden>☰ Menu</button>
+        <nav id="portfolio-navigation" class="app-tabs" aria-label="Portfolio sections">
+          $navigation
+        </nav>
+        <button class="theme-toggle" type="button" aria-label="Switch to light mode" aria-pressed="false">
+          <span aria-hidden="true">☀</span> Light mode
+        </button>
+      </div>
+    </header>
+    <main id="main" class="wrap">
+      $content
+    </main>
+    <footer class="site-footer">
+      <div class="wrap footer-inner">
+        <span>$name</span>
+        <div class="links">
+          <a href="$github">GitHub</a><a href="$linkedin">LinkedIn</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

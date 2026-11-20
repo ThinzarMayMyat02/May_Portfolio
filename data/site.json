@@ -1,0 +1,42 @@
+{
+  "name": "May Myat Thinzar",
+  "links": {
+    "github": "https://github.com/ThinzarMayMyat02",
+    "linkedin": "https://www.linkedin.com/in/may-myat-thinzar-3b553926b/",
+    "awards": "https://aiocean.uxmm.org/"
+  },
+  "navigation": [
+    {
+      "path": "index.html",
+      "label": "Home"
+    },
+    {
+      "path": "about.html",
+      "label": "About"
+    },
+    {
+      "path": "experience.html",
+      "label": "Experience"
+    },
+    {
+      "path": "projects/index.html",
+      "label": "Projects"
+    },
+    {
+      "path": "skills.html",
+      "label": "Skills"
+    },
+    {
+      "path": "education.html",
+      "label": "Education & Certifications"
+    },
+    {
+      "path": "achievements.html",
+      "label": "Achievements"
+    },
+    {
+      "path": "contact.html",
+      "label": "Contact"
+    }
+  ]
+}
