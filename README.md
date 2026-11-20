@@ -73,8 +73,16 @@ Add web-sized images under `site/assets/`, using `oceanblue-memory` or `metro-co
 ## Deploy on Vercel
 
 1. Put the project files in a Git repository. Keep `vercel.json`, `build.py`, `portfolio/`, `data/`, `templates/` and `site/` at the repository root.
-2. Import the repository into Vercel. Select **Other** as the framework preset, leave the build command empty and use `site` as the output directory.
-3. Deploy the prebuilt `site/` folder.
+2. Import the repository into Vercel. Select **Other** as the framework preset, keep the repository root as the Root Directory and use `site` as the output directory.
+3. The included `vercel.json` runs `python3 build.py` during deployment and skips dependency installation. Deploy the project.
+4. Confirm the Production Branch is `main` in the project's Git settings.
+
+Once connected, pushing to `main` automatically rebuilds the templates and data and deploys the generated site. Other branches and pull requests get preview deployments through the Vercel Git integration. A failed build is reported in Vercel's deployment logs.
+
+The Git integration provides the build and deployment pipeline. Configuration in this repository takes effect after the repository is connected to a Vercel project. No GitHub Actions workflow or deployment token is required for this setup.
+
+Vercel configuration documentation: https://vercel.com/docs/project-configuration/vercel-json
+Git deployment documentation: https://vercel.com/docs/git
 
 After the production domain is known, generate the sitemap with the actual HTTPS origin.
 
