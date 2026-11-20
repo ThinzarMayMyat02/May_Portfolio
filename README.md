@@ -86,7 +86,7 @@ Commit and push the generated site files. Keep supplying the origin for subseque
 
 ## Content still to add
 
-The OceanBlue demo URL, professional email, CV and project screenshots have placeholders. Add the demo to the OceanBlue project template and achievement card, and update the Contact template when your email and CV are ready.
+The OceanBlue demo URL, CV and project screenshots have placeholders. Add the demo to the OceanBlue project template and achievement card, and update the Contact template when your CV is ready.
 
 ## Icon credits
 
